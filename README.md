@@ -4,8 +4,8 @@
 
 This respository, contains:  
 
-* 1) A notebook that goes over how to *retrieve arXiv metadata from 01/2007 to 06/2019*, and how to format them to a usable format (pandas DataFrame)
-* 2) A .csv file with formatted arXiv metadata from 01/2007 to 06/2019. Fields included:
+1) A notebook that goes over how to *retrieve arXiv metadata from 01/2007 to 06/2019*, and how to format them to a usable format (pandas DataFrame) . 
+2) A .csv file with formatted arXiv metadata from 01/2007 to 06/2019. Fields included:  
   * title
   * abstract
   * authors
@@ -13,6 +13,6 @@ This respository, contains:
   * journal reference
   * creation date
   * update date
-* 3) .txt files with the raw arXiv metadata per year
+3) .txt files with the raw arXiv metadata per year
 
 
